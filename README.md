@@ -14,8 +14,8 @@ oasis_cross-sectional.csv contains patient information for the dataset.
 patient_ids.csv contains the patient ids for our selected dataset.
 
 # Dependencies
-python 3.7.13
-nilearn 0.9.1
+python 3.7.13\n
+nilearn 0.9.1\n
 sklearn 1.0.2
 
 # Results
