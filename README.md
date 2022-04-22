@@ -3,7 +3,7 @@
 Project led and maintained by [Rajas Gupta](https://github.com/rajasg) and Vijay Sharma
 
 Contributors:
-Omkar Yadav, Brandon Xu
+[Omkar Yadav](https://github.com/omkar-yadav-12), [Brandon Xu](https://github.com/brx021)
 
 # Introduction 
 Alzheimer's Disease (AD) is a neurodegenerative disorder of uncertain cause and pathogenesis that primarily affects older adults and is the most common cause of dementia. We sought to apply machine learning to AD classification on brain imaging. Brain Imaging via magnetic resonance imaging (MRI), is used for evaluation of patients with suspected AD. MRI findings include both local and generalized shrinkage of brain tissue. Some studies have suggested that MRI features may predict the rate of decline of AD and may guide therapy in the future. Specifically, we trained our model with white matter maps from the OASIS AD dataset. White matter maps measure the density of which messages pass between different areas in the central nervous system.
