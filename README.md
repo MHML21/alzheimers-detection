@@ -1,6 +1,6 @@
 ## Brain Network Analysis for Early Detection of Alzhiemer's Disease
 
-Project led and maintained by [Rajas Gupta](https://github.com/rajasg) and Vijay Sharma
+Project led and maintained by [Rajas Gupta](https://github.com/rajasg) and [Vijay Sharma](https://github.com/vsharm4949)
 
 Contributors:
 [Omkar Yadav](https://github.com/omkar-yadav-12), [Brandon Xu](https://github.com/brx021)
